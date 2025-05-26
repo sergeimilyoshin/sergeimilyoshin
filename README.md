@@ -1,7 +1,7 @@
 ## Обо мне
 
 - 📫 Способы связи со мной:<br>
-  sergeimilyoshin@gmail.com<br>
+  &#9993 sergeimilyoshin@gmail.com<br>
   @babaluma<br>
 
 
