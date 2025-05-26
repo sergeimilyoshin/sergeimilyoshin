@@ -1,8 +1,8 @@
-## Обо мне
+## Обо мне:
 
-- 📫 Способы связи со мной:<br>
-  &#9993 sergeimilyoshin@gmail.com<br>
-  @babaluma<br>
+Со мной можно связаться через:<br>
+![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) sergeimilyoshin@gmail.com <br>
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) @babaluma <br>
 
 
 <!--
