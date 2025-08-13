@@ -12,4 +12,4 @@
 
 ## Буду рад новым контактам!<br>
 ![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) sergeimilyoshin@gmail.com <br>
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) @babaluma <br>
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) @sergeymileshin <br>
