@@ -13,3 +13,4 @@
 ## Буду рад новым контактам!<br>
 ![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) sergeimilyoshin@gmail.com <br>
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) @sergeymileshin <br>
+<img width="1280" height="904" alt="сертификат Островок Хакатон 2025" src="https://github.com/user-attachments/assets/bbb24c02-601a-4c4f-bc9d-c33a12e4ec03" />
