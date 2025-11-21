@@ -14,4 +14,7 @@
 ![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) sergeimilyoshin@gmail.com <br>
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) @sergeymileshin <br>
 
+<img width="400" height="283" alt="Милешин СС сертификат karpov courses1" src="https://github.com/user-attachments/assets/9b2398f8-59fd-46ad-b5ad-6d31c47bc625" />
+
+
 <img width="400" height="283" alt="сертификат Островок Хакатон 2025" src="https://github.com/user-attachments/assets/0e5c68f2-f17d-4540-8d49-878314b66152" />
